@@ -94,7 +94,7 @@
     "redux": "^4.2.1",
     "sass": "^1.56.1",
     "seamless-immutable": "^7.1.4",
-    "styled-components": "^5.3.0",
+    "styled-components": "^5.3.9",
     "yarn": "^1.22.10"
   },
   "devDependencies": {
